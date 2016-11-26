@@ -1,0 +1,26 @@
+Arguments: 
+  /usr/bin/nodejs /usr/bin/yarn self-update
+
+PATH: 
+  /home/alex/bin:/home/alex/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  0.17.4
+
+Node version: 
+  7.1.0
+
+Platform: 
+  linux x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: EACCES: permission denied, mkdir '/usr/lib/node_modules/yarn/updates'

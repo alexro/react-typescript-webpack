@@ -1,0 +1,19 @@
+{
+  "name": "cb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "ts-loader": "^1.2.2",
+    "typescript": "^2.0.10",
+    "typings": "^2.0.0",
+    "webpack": "^1.13.3"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
+}
